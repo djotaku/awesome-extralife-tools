@@ -9,6 +9,6 @@ To add your tool, make a PR against this repo adding to the readme.md file. I wo
 
 ## End User Programs
 ### Python
-[ELDonationTracker](http://djotaku.github.io/ELDonationTracker/) - If you want either a command line or graphical user interace (GUI) to update your OBS or XSplit streams with notifications when you get donations and also display all sorts of donation information, this is the program for you. 
+- [ELDonationTracker](http://djotaku.github.io/ELDonationTracker/) - If you want either a command line or graphical user interace (GUI) to update your OBS or XSplit streams with notifications when you get donations and also display all sorts of donation information, this is the program for you. 
 
 ### Other programming languages?
